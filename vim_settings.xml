@@ -3,23 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1552372163239">
+      <file name="/Dummy.txt" timestamp="1552372924485">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/webstormProjects/scrat-pms/fis-conf.js" timestamp="1552372290128">
-        <mark key="[" line="79" column="25" />
-        <mark key="]" line="79" column="25" />
-        <mark key="." line="79" column="25" />
+      <file name="$USER_HOME$/work/webstormProjects/scrat-pms/fis-conf.js" timestamp="1552372721103">
+        <mark key="[" line="76" column="8" />
+        <mark key="]" line="76" column="8" />
+        <mark key="." line="76" column="8" />
         <mark key="o" line="84" column="33" />
+      </file>
+      <file name="$USER_HOME$/work/webstormProjects/scrat-pms/components/member-plus/vm/vm_member_plus_market.vm" timestamp="1552372585366">
+        <mark key="[" line="71" column="57" />
+        <mark key="]" line="71" column="57" />
+        <mark key="." line="71" column="57" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>imkie</text>
+        <text>l</text>
+      </register>
+      <register name="w" type="4">
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>imkie</text>
+        <text>l</text>
       </register>
     </registers>
     <search>
