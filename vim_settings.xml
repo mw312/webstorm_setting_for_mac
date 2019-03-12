@@ -3,10 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/webstormProjects/scrat-pms/fis-conf.js" timestamp="1552368246802" />
+      <file name="/Dummy.txt" timestamp="1552372163239">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/webstormProjects/scrat-pms/fis-conf.js" timestamp="1552372290128">
+        <mark key="[" line="79" column="25" />
+        <mark key="]" line="79" column="25" />
+        <mark key="." line="79" column="25" />
+        <mark key="o" line="84" column="33" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>imkie</text>
+      </register>
+      <register name="-" type="4">
+        <text>imkie</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
