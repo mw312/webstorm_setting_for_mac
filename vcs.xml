@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.fangbaba.com" />
           <option name="userName" value="wei.mo@fangbaba.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://code.aliyun.com" />
+          <option name="userName" value="mw312" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
